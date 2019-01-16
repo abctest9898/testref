@@ -1,1 +1,1 @@
-File is to add and merge with master.
+adding new content to get merge conflict merge.
