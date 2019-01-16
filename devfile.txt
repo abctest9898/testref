@@ -1,1 +1,2 @@
+adding new content to get merge conflict merge.
 This is a master branch.
